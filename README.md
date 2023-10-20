@@ -2,7 +2,7 @@
 
 This calculator was created using SwiftUI with around 300 lines of code.
 
-<img width="436" alt="Screenshot 2023-10-20 at 19 08 35" src="https://github.com/sadstitch003/ios_calculator/assets/80204631/2aa4b409-f785-47c3-a148-d740c9ed4e91">
+<img width="200" alt="Screenshot 2023-10-20 at 19 08 35" src="https://github.com/sadstitch003/ios_calculator/assets/80204631/2aa4b409-f785-47c3-a148-d740c9ed4e91">
 
 #### Features
 - Addition
@@ -12,3 +12,9 @@ This calculator was created using SwiftUI with around 300 lines of code.
 - Percent Calculation
 - Plus/Minus Toggle
 - Decimal Input
+
+#### Prerequisites
+Before you begin, ensure you have met the following requirements:
+- Swift 5.0 or higher
+- Xcode (for macOS development)
+- An iOS device or simulator
